@@ -1,0 +1,25 @@
+{
+  "name": "nukupaw",
+  "version": "0.0.1",
+  "description": "本地优先的陪伴服务框架（开发中，尚未发布）",
+  "type": "module",
+  "bin": {
+    "nukupaw": "bin/nukupaw.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "agent",
+    "companion",
+    "local-first",
+    "llm",
+    "chatbot"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
